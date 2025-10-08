@@ -186,3 +186,5 @@ docker-compose -f docker-compose.prod.yml logs -f react-prod
 5. **Keep Docker Desktop updated** for best performance
 
 Happy coding! 🎉
+
+Edited by Andrei - testing branch updates
